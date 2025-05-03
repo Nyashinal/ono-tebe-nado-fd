@@ -62,8 +62,8 @@
 }
 .aligned-text{
     display: block;
-    padding-top: 164px;
-    padding-left: 50px;
+    padding-top:164px;
+    padding-left:50px;
 }
 .aligned-text_center{
     display: block;
@@ -219,6 +219,7 @@
     padding: 181px 50px 0px 50px;
 }
 .footer__menu-list{
+    font-family: Raleway, sans-serif;
     text-align: center;
     list-style: none;
     font-size: 18px;
