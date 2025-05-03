@@ -121,9 +121,6 @@
     width: 334px;
     min-height: 596px;
 }
-.card_type_film {
-    background-image: url(../images/card-lot-01.jpg);
-}
 .card {
     display: flex;
     flex-direction: column;
