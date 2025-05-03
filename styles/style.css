@@ -32,6 +32,7 @@
     font-size: 18px;
     line-height: 24px;
     text-underline-position: under;
+    font-style: normal;
 }
 .header__link {
     text-underline-position: under;
