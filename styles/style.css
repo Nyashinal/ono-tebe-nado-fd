@@ -106,12 +106,12 @@
     position: relative;
 }
 .lots__heading {
-    font-size:40px;
+    font-size: 40px;
     font-weight: bold;
     padding-left: 40px;
 }
 .lots__card-list {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     gap: 25px;
     padding-top: 27px;
@@ -224,7 +224,7 @@
 }
 .footer__social-list {
     display: flex;
-    list-style:none;
+    list-style: none;
     gap: 48px;
     justify-content: end;
 }
